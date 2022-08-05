@@ -129,9 +129,35 @@
 
 .under-pics a i:hover{
     color: rgb(53,204,156);
-
 }
 
-#green-area:hover{
-    display: block;
+.isotope-img{
+    position: relative;
+    overflow: hidden;
+}
+
+
+
+#green-area{
+    position: relative;
+}
+
+#green-area:hover .isotope-img {
+    bottom: 5px;
+}
+
+#greenpart{
+    position: absolute;
+    bottom: 0px;
+    width: 95%;
+    height:18vh;
+}
+
+#greenpart{
+    display: none !important;
+}
+
+
+#green-area:hover  #greenpart{
+    display: block !important;
 }
