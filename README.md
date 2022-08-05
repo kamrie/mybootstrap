@@ -1,1 +1,1 @@
-<a href="https://regna-chibuzor.netlify.app/">regna-chibuzor.netlify.app</a>
+<a href="https://regna-chibuzor.netlify.app/" target="_blank">regna-chibuzor.netlify.app</a>
