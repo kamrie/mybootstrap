@@ -35,7 +35,7 @@ let typed = new Typed('.typing-effect',{
     "Brand",
     "Business",
     "Start Up",
-    "chibuzor"
+    "chibuzor",
     "chibuike"
   ], 
   backSpeed: "9", 
