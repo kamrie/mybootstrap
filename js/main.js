@@ -27,7 +27,7 @@ AOS.init({
 
 $('.counter').counterUp({
   delay : 20,
-  time : 1000
+  time : 2000
 })
 
 let typed = new Typed('.typing-effect',{
@@ -35,8 +35,7 @@ let typed = new Typed('.typing-effect',{
     "Brand",
     "Business",
     "Start Up",
-    "chibuzor",
-    "chibuike"
+    
   ], 
   backSpeed: "9", 
   typeSpeed:"9", 
